@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 <!--
-**MariaOyola/MariaOyola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+CONFIG
+FULL_NAME: Maria Jose Rodriguez Oyola
+GITHUB_USER: MariaOyola
+EMAIL: mariajoserodriguezoyola@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
